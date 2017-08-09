@@ -3,7 +3,6 @@ from pygorithm.sorting import selection_sort
 
 myList = [12,3,2,14,3,97,2345,6590129,5,125,]
 
-sort_lsit = selection_sort.sort(myList)
 
 # print time complexities
 print(selection_sort.time_complexities())
